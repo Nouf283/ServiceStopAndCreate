@@ -1,0 +1,57 @@
+Service is started at 4/10/2021 12:04:39 AM
+chrome is running4/10/2021 12:04:39 AM
+Chrome has stopped4/10/2021 12:04:42 AM
+Chrome has stopped4/10/2021 12:04:42 AM
+Chrome has stopped4/10/2021 12:04:43 AM
+Chrome has stopped4/10/2021 12:04:43 AM
+Chrome has stopped4/10/2021 12:04:43 AM
+Chrome has stopped4/10/2021 12:04:43 AM
+Chrome has stopped4/10/2021 12:04:44 AM
+Chrome has stopped4/10/2021 12:04:44 AM
+Chrome has stopped4/10/2021 12:04:44 AM
+Chrome has stopped4/10/2021 12:04:44 AM
+Chrome has stopped4/10/2021 12:04:44 AM
+Chrome has stopped4/10/2021 12:04:49 AM
+Service is started at 4/10/2021 12:05:51 AM
+chrome is running4/10/2021 12:05:51 AM
+Chrome has stopped4/10/2021 12:05:51 AM
+Chrome has stopped4/10/2021 12:05:51 AM
+Chrome has stopped4/10/2021 12:05:51 AM
+Chrome has stopped4/10/2021 12:05:51 AM
+Chrome has stopped4/10/2021 12:05:51 AM
+Chrome has stopped4/10/2021 12:05:51 AM
+Chrome has stopped4/10/2021 12:05:51 AM
+Service is started at 4/10/2021 12:06:55 AM
+chrome is running4/10/2021 12:06:55 AM
+Chrome has stopped4/10/2021 12:06:55 AM
+Chrome has stopped4/10/2021 12:06:55 AM
+Chrome has stopped4/10/2021 12:06:55 AM
+Chrome has stopped4/10/2021 12:06:56 AM
+Chrome has stopped4/10/2021 12:06:56 AM
+Chrome has stopped4/10/2021 12:06:56 AM
+Chrome has stopped4/10/2021 12:06:56 AM
+Chrome has stopped4/10/2021 12:06:56 AM
+Chrome has stopped4/10/2021 12:06:56 AM
+Chrome has stopped4/10/2021 12:06:56 AM
+Chrome has stopped4/10/2021 12:06:56 AM
+Service is started at 4/10/2021 12:07:18 AM
+Service is stopped at 4/10/2021 12:07:25 AM
+Service is started at 4/10/2021 12:08:07 AM
+chrome is running4/10/2021 12:08:07 AM
+Chrome has stopped4/10/2021 12:08:07 AM
+Chrome has stopped4/10/2021 12:08:07 AM
+Chrome has stopped4/10/2021 12:08:07 AM
+Chrome has stopped4/10/2021 12:08:08 AM
+Chrome has stopped4/10/2021 12:08:08 AM
+Chrome has stopped4/10/2021 12:08:08 AM
+Chrome has stopped4/10/2021 12:08:08 AM
+Chrome has stopped4/10/2021 12:08:08 AM
+Service is started at 4/10/2021 12:08:37 AM
+Service is stopped at 4/10/2021 12:08:44 AM
+Service is started at 4/10/2021 12:09:08 AM
+Service is stopped at 4/10/2021 12:09:22 AM
+Service is started at 4/10/2021 12:20:23 AM
+firefox.exe is running4/10/2021 12:20:23 AM
+chrome is running4/10/2021 12:20:23 AM
+:4/10/2021 12:20:24 AM
+Service is stopped at 4/10/2021 12:20:36 AM

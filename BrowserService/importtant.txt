@@ -1,0 +1,12 @@
+https://www.c-sharpcorner.com/article/create-windows-services-in-c-sharp/
+Run cmd
+1.cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 
+2.InstallUtil.exe E:\project\servicework\BrowserService\BrowserService\bin\Debug\BrowserService.exe
+3.InstallUtil.exe -u E:\project\servicework\BrowserService\BrowserService\bin\Debug\BrowserService.exe
+if any changes
+a.rebuild
+b.3
+c.1
+
+run-->services-->services.msc
+3.for service application start visual studio in administartor mood

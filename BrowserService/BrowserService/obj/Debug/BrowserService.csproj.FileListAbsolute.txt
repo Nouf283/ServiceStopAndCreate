@@ -1,0 +1,7 @@
+E:\project\servicework\BrowserService\BrowserService\bin\Debug\BrowserService.exe.config
+E:\project\servicework\BrowserService\BrowserService\bin\Debug\BrowserService.exe
+E:\project\servicework\BrowserService\BrowserService\bin\Debug\BrowserService.pdb
+E:\project\servicework\BrowserService\BrowserService\obj\Debug\BrowserService.ProjectInstaller.resources
+E:\project\servicework\BrowserService\BrowserService\obj\Debug\BrowserService.csproj.GenerateResource.cache
+E:\project\servicework\BrowserService\BrowserService\obj\Debug\BrowserService.exe
+E:\project\servicework\BrowserService\BrowserService\obj\Debug\BrowserService.pdb

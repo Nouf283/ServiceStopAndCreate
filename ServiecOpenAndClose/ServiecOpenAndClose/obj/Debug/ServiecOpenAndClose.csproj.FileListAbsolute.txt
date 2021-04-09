@@ -1,0 +1,9 @@
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\bin\Debug\ServiecOpenAndClose.exe.config
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\bin\Debug\ServiecOpenAndClose.exe
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\bin\Debug\ServiecOpenAndClose.pdb
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\obj\Debug\ServiecOpenAndClose.csprojAssemblyReference.cache
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\obj\Debug\ServiecOpenAndClose.Properties.Resources.resources
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\obj\Debug\ServiecOpenAndClose.csproj.GenerateResource.cache
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\obj\Debug\ServiecOpenAndClose.exe
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\obj\Debug\ServiecOpenAndClose.pdb
+E:\project\servicework\ServiecOpenAndClose\ServiecOpenAndClose\obj\Debug\ServiecOpenAndClose.Form1.resources
